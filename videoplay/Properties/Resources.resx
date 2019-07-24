@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="screenshot_512px_1168943_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\screenshot_512px_1168943_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plein_ecran_fullscreen_256px_1075675_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plein_ecran_fullscreen_256px_1075675_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sound_off_378px_1191712_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sound_off_378px_1191712_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next_256px_1139124_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next_256px_1139124_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="align_horizontally_right_256px_1139076_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\align_horizontally_right_256px_1139076_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="align_horizontally_left_256px_1139075_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\align_horizontally_left_256px_1139075_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next_256px_1139025_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next_256px_1139025_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_512px_1063835_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Screenshot_512px_1063835_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quicktime_675px_1210174_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\quicktime_675px_1210174_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rewind_378px_1191706_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rewind_378px_1191706_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous_256px_1139031_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous_256px_1139031_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_256px_1139128_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_256px_1139128_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Exit_Full_Screen_256px_1063121_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Exit_Full_Screen_256px_1063121_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="open_128px_534913_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\open_128px_534913_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stop_378px_1191714_easyicon.net (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop_378px_1191714_easyicon.net (1).png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Video_File_269px_1192360_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Video_File_269px_1192360_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video_player_907px_1195936_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video_player_907px_1195936_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Video_File_269px_1192360_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Video_File_269px_1192360_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous_256px_1139031_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous_256px_1139031_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Exit_Full_Screen_512px_1063936_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Exit_Full_Screen_512px_1063936_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rewind_378px_1191706_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rewind_378px_1191706_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pause_378px_1191701_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pause_378px_1191701_easyicon.net (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next_256px_1139025_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next_256px_1139025_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_607px_1228824_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu_607px_1228824_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stop_378px_1191714_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop_378px_1191714_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Options_1614px_1183435_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Options_1614px_1183435_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stop_378px_1191714_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop_378px_1191714_easyicon.net1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forward_378px_1191677_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forward_378px_1191677_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pause_670px_1145567_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pause_670px_1145567_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Play_378px_1191704_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play_378px_1191704_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pause_378px_1191701_easyicon.net (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pause_378px_1191701_easyicon.net (1).png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="archive_783px_1230162_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\archive_783px_1230162_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fullscreen_267px_1138654_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fullscreen_267px_1138654_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video_player_907px_1195936_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video_player_907px_1195936_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folder_783px_1229470_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\folder_783px_1229470_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sound_378px_1191711_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sound_378px_1191711_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_625px_1232405_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu_625px_1232405_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stop_256px_1139154_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stop_256px_1139154_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fullscreen_256px_567014_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fullscreen_256px_567014_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forward_378px_1191677_easyicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forward_378px_1191677_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="video_player_907px_1195936_easyicon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\video_player_907px_1195936_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous_256px_1139130_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous_256px_1139130_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="3220636683524894791" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3220636683524894791.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

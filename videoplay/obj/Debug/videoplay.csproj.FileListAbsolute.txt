@@ -1,0 +1,15 @@
+D:\video\videoplay\videoplay\bin\Debug\videoplay.exe.config
+D:\video\videoplay\videoplay\obj\Debug\Interop.WMPLib.dll
+D:\video\videoplay\videoplay\obj\Debug\AxInterop.WMPLib.dll
+D:\video\videoplay\videoplay\obj\Debug\videoplay.csproj.ResolveComReference.cache
+D:\video\videoplay\videoplay\obj\Debug\ResolveAssemblyReference.cache
+D:\video\videoplay\videoplay\obj\Debug\videoplay.Play.resources
+D:\video\videoplay\videoplay\obj\Debug\videoplay.Properties.Resources.resources
+D:\video\videoplay\videoplay\obj\Debug\GenerateResource.read.1.tlog
+D:\video\videoplay\videoplay\obj\Debug\GenerateResource.write.1.tlog
+D:\video\videoplay\videoplay\bin\Debug\videoplay.exe
+D:\video\videoplay\videoplay\bin\Debug\videoplay.pdb
+D:\video\videoplay\videoplay\bin\Debug\Interop.WMPLib.dll
+D:\video\videoplay\videoplay\bin\Debug\AxInterop.WMPLib.dll
+D:\video\videoplay\videoplay\obj\Debug\videoplay.exe
+D:\video\videoplay\videoplay\obj\Debug\videoplay.pdb
